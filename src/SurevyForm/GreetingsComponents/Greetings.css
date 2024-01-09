@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+    height: 30rem;
+    object-fit: fill;
+    
+}
+.thanks {
+    text-align: center;
+    font-size: 3.5rem;
+    color: #333; /* Change color as needed */
+    margin-bottom: 35px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important; /* Add a subtle text shadow */
+  }
+  .greet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color:salmon;
+  }
